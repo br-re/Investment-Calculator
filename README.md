@@ -17,7 +17,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/MarkoT25/Investment-Calculator.git
+git clone https://github.com/br-re/Investment-Calculator.git
 Navigate to the project directory:
 
 bash
